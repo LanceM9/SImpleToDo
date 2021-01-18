@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Credentials were not accepted when attempting to import repository from Android Studio. Had to create a token to gain access. Initial commit failed when first importing due to an unknown user identity. Solved by setting up global user name and email.
 
 ## License
 
